@@ -17,7 +17,7 @@ class M extends B{
  System.out.println("iam b");
  }
 public void d(){
- System.out.println("I am d");
+ System.out.println("I am d testing git");
  }
 }
 class ABC{
